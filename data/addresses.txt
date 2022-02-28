@@ -1,0 +1,191 @@
+- name: Cosmopolitan
+  eth_address: 0x35284488a7b0ac42d49e3f4e998957830338a45a
+  address: cudos1ruxjd63dt6ug7fl4694wevdz59cg5n558qrvy2
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A/48oObRYXd9LkUX/orsOkSw73zdII/msSk+kyCGDE6j"}'
+  mnemonic: "unhappy mention awful foam gather square travel cable viable dash hope shove unfold awful defense future pave innocent remove pledge add canoe post topple"
+
+- name: Klever
+  eth_address: 0xf135e2249a76dce2fcde962131b7169565f1888d
+  address: cudos1r532xpahu4e6wqzv2mfcrvlpz6ef4g32paqrt3
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AsihDPhvEiAuMUGwx/C875jrSjDapxFFKQfS/bfj2dC0"}'
+  mnemonic: "resist buffalo mention pig write turtle shock aerobic equip custom enact spider angry panther use virus capital saddle insane body science march purity success"
+
+- name: Crytech
+  eth_address: 0x439ef5decfea78f907ef6b6bc3e7f0194b5157a5
+  address: cudos14c9c66v8m4dqc8a4wua5hscgqcad9v6ly2sake
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AlFgVjTpW+ffYkz5VhtNK9VjPPAsVd3PKycmKX0Oc0eN"}'
+  mnemonic: "drastic inmate swift drip blur recycle enroll manual trigger husband vital grit gold share guide eager second destroy cereal lesson cactus blossom picnic mechanic"
+
+- name: Trisabela
+  eth_address: 0xc11e23434bcfe131c44adfbe1b1a973a7405418c
+  address: cudos1wxylu2t6w0tn96t7rwngfnejgu948nw86az6f4
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A896+ez69obmcg0WNKTKACtbHWHOEcQLHpyc458BTL9u"}'
+  mnemonic: "february also decade fan ten lyrics burger license pig ivory increase situate grunt awful ahead eye level plug liquid cliff gain whip piano topple"
+
+- name: Staking4All
+  eth_address: 0x81b7edc53bdcbd2212230a5ea49cc0be5156e5aa
+  address: cudos14frs3gak6gvm3n7pdqadeeec92e2dfny22v7ds
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AzZcmipwOWPyXtVRXQvK2AVZD4ZVbwoKCvUKUFCWPxxS"}'
+  mnemonic: "alpha sword meat youth often mountain toy below curtain stem tuition proud crunch pupil carbon unfair coyote guard worth tree damp session foil assist"
+
+- name: stakewithjenni
+  eth_address: 0x40d2935a0ea3cae6a782b62d09efc84ef838a3e1
+  address: cudos1kh5e9pg53r75hsgzz2899jsjum3sdtnndx6tz4
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"Aj6m99tDN3HN1QkVr2a61QqjM3phRsyn0QDdy+jjANto"}'
+  mnemonic: "gloom damp coyote wall phone afraid action latin tide sniff defense mesh timber wish trial stamp race affair celery armor brick spider zebra service"
+
+- name: ValidBlocks
+  eth_address: 0x896aea93ae29147e810059c75390ef4bbbeebe29
+  address: cudos1k6lv8x9rqu02mc5dg5ezh5ha4ppgvmt0y9v4yx
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AkZyd+gwHAZXyWXSHYc6Cvu+/z5+a+UWr3LYJ9sLE+Zx"}'
+  mnemonic: "era cube catalog entry virus skirt update layer this unfold very day know laundry thunder daring odor baby remind scare add burst order harvest"
+
+- name: GBV_Capital
+  eth_address: 0x36b3eae777bf2b1c79877355460b888228b3eb39
+  address: cudos1rz67ausxlh7rn8pp94g32kypleqnhnk57zm323
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AmnqetGIfN/vbqQqucYJaquB1pMKpyV9ej3KfRoEexoC"}'
+  mnemonic: "message input can extra practice minimum draw nice please game opinion mutual liquid into crater call siren auto caution raccoon final impact pink hammer"
+
+- name: Mango_Stake
+  eth_address: 0x2a637fbfe99844c94efe4ff7c52d3c06d6009a98
+  address: cudos1lnxgtul7cj9krg8ecxc6ftz2ngfl2g9nn94je3
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"Ax6RUX5TwezfWqe8TSiZtarNdHCcOz+5ms5aqWAwuiH6"}'
+  mnemonic: "broom winter oblige hurry can border field deer rude undo squirrel home special artefact ice edit team wash universe ladder change curious pilot sausage"
+
+- name: Virtual_Hive
+  eth_address: 0x6f5d935ff97dd6efb4f73fda477b86b14d49e2ad
+  address: cudos13m8aj24a3zqw0xxcf5zgysvp9my898herl8pr4
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A5RRj9L2N6mpKEk4kshGPXx0sOR8tsq+VKXIA4zIyIhd"}'
+  mnemonic: "sock dentist process worry solar output clap final tennis spray goddess still issue clean kidney crush denial keep lobster wet earth tilt satoshi describe"
+
+- name: Chainstaking
+  eth_address: 0xffbbf0f5402eb65cc7ceb7e35256063c780ecb52
+  address: cudos1qd3vpeezkrs2s7cqz27jz07c8kvukkhkmlkevz
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A0IqhgjBqYX7Nh2HAopqvE9dq0QkbrORu1dLhUwiF6Jm"}'
+  mnemonic: "miracle drill empower subway witness train force afraid margin electric life alarm moment helmet fossil october smooth churn obvious nut wrist canvas blame innocent"
+
+- name: Metaedge_Ventures
+  eth_address: 0xec7ad4233eb904482b1608ed7dc5afa3523c3d4c
+  address: cudos1drul3eajtc8x7sqq9rz3a27s9cgxj7cunepr03
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A002N7HiUMtViX565RPb2yftLYGCywdNtYMedHJwh4Lq"}'
+  mnemonic: "fitness crowd group certain chunk join shrimp above filter base sense strong define tackle unfold royal multiply club urge error lawn chuckle blanket smart"
+
+- name: AUDIT_one
+  eth_address: 0x7b52b022517b77708da1ae07b481efa5a9a788aa
+  address: cudos1z50nt82dl7u29r9hjvzwg42u685eqls9l4maa8
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A+pDjIUMaSydTbz8Pvy/PE4VU2WP396rI9z6AAWTKigY"}'
+  mnemonic: "jewel fortune during pizza knock degree boy salute prosper bench goose sister print today pluck soul kidney gaze cat parade sketch blast weekend glimpse"
+
+- name: Amsterdam
+  eth_address : 0x4d3cb2104fe0327de948a04ff3d3ff73bbf58bfb
+  address: cudos18a3vc40w65je0dy430flr3u8eec60x6ajy86et
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"Arh0ypCZnPPe16zeQtAx4EoRpv0CaV0rBqsYHyiZUB5M"}'
+  mnemonic: "concert height find dolphin album visit illegal pretty census shiver art trim cluster brief sell side license donkey please stomach tiger shoulder away claim"
+
+- name: AscendEX
+  eth_address: 0x79840f653050530e46e36b7ef4756529b6680f10
+  address: cudos1gwy7xfv63cyg5l3xn6sdxd9vw3434qyeeyef7q
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A2ydIMN2s/QC2PWzsF62ty5RIsjvgl7ZmQ00Nx3dftf6"}'
+  mnemonic: "famous dilemma rice lamp lottery large merit nation since ancient play satisfy plug guilt tobacco lucky romance provide taxi second figure fury curtain immense"
+
+- name: Cosmostation
+  eth_address: 0xd2cb03e0bc8077301f3c1d34c082cc10fd8149e7
+  address: cudos12qnue8xsvh3znnqctdhp5v7cvnnf8sa3ga7gan
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AvLL/yFpVkvgsvODMN+8UILRTM8o9MfMR+yM2TpxxLrG"}'
+  mnemonic: "force milk fabric wall symbol endorse place range runway arrive receive crane inmate bless turn powder fringe make matrix palm thumb twenty runway topple"
+
+- name: Artem_Cudonian
+  eth_address: 0xcc9656270e2cd8f61df72d79cbda3a6e172fd000
+  address: cudos1e5sfrxtqp67je5lyllta3s5d8ygtqfstyrdn7n
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A0vWzBLA6C+8BXKZf6qmPB45h4fSH73aAX0qFvHKSVmH"}'
+  mnemonic: "defy depart oblige toe wet cool urge core jewel clog regret vendor cabin invite monkey circle lunar rotate journey judge still arch slice mimic"
+
+- name: Limechain
+  eth_address: 0x050801be60d8535f433d5c15db3129276cc1cc6a
+  address: cudos17d99w6kh6vg8amur5rqdw69vx2xm8yndwk7mul
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AmJyu3tcQGhb+ScxMfbGd/d1rpThoaDUJtbkzy7eu5/L"}'
+  mnemonic: "art mobile project cake rubber science drastic liquid record trouble orbit bubble amount license potato plate music clap soon helmet inject crucial answer south"
+
+- name: soon-moon-platoon
+  eth_address: 0xe7d4d83aab8b14e8bb2fbca29a4b409f2b438686
+  address: cudos12xnaejykjqxdd4vhzh8yupnp4zrspyja6uvwtj
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A39uKBj5qS6fJlXZdKp7cRvqFC4aih5vgQk5npdt2vUJ"}'
+  mnemonic: "audit shield display silent sing limb royal labor matrix day vital youth glow increase way brain motion panic leader skin script wheel people manage"
+
+- name: acc1
+  eth_address: 0x89d48988ddb382aa1485f80f5d187291a9966b2b
+  address: cudos18aqtqtufc99w34zfzch0sw2saj5yk8syc6pj5s
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AsCxQONSb/pt+L1i2Abx6W9ZKgI4F8SNhErEf31wab5a"}'
+  mnemonic: "radar drastic tongue dinner wonder hobby isolate maze clap match double mosquito afford gym arrange tattoo mammal abandon milk episode verify embrace swarm glass"
+
+  - name: NexGen_Cloud
+  eth_address: 0xe52e1c4c5041dcd9bdf0fb1a1441bdea23a1eaa9
+  address: cudos12dksrna0xdp77llxj34rlnrhyxcf3p4nhq3fge
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A2Vq98ZkICtXtXtLSY4k5/iUGful0WRaWL9ySJtTFmTw"}'
+  mnemonic: "settle file flower smart diesel smoke liberty tag valid guard liberty police audit gesture social arctic shy hair turtle exhaust wide emotion runway dolphin"
+
+- name: Cognitive_Blockchain_Capital
+  eth_address: 0x196f7c62d650a7b899cfd92e8ed7515559936424
+  address: cudos1kv7mfj2w3eumusz66s40nvkt8rqme8rc6m680f
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"Ax0+d/9hXXTIMCQwGdpM46y4YD/Iu5eCYDGHNQqzq4Er"}'
+  mnemonic: "slim cabin current fatal mechanic echo win chair receive level bounce happy will brisk melt hold pupil nut click alarm fruit smoke track unhappy"
+
+  - name: BlockVenture
+  eth_address: 0x4406877e74bd4f64891a2975d0201a2028898bb6
+  address: cudos1u5pqltfetgjw0clfmzztctefk300xyh5g7qat4
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AijNKUXm5SC86nxkc2VrVWbMMOeZgl4YX07JhhPK8Hlz"}'
+  mnemonic: "typical sword route drop session federal coast across radio spoil enlist salad attitude unusual discover coil runway dust olive plug random elder gather funny"
+
+- name: Easy_Crypto_Hunter
+  eth_address: 0x477dc8f17ff5beea96132a943867546e2d11ca58
+  address: cudos1wmk90ace28rvvqxlqveyaglk436e88rg2k0d0x
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"Agpz+4OfYpQIEUi6OzZs4GMfV3b7yLSK57lRmoFzMM67"}'
+  mnemonic: "toward joy giraffe kitten skirt ketchup right census reject peace peanut busy dawn endless stone cave onion dad fault pelican over pretty pet gasp"
+
+- name: Blocksync
+  type: local
+  address: cudos1an2rp2k540y8x2gfar804pu2nd7u469yljzmvl
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AiN53AzhtLNGsZyceOAkg22jyyS7jP472UDSgHhpyR3B"}'
+  mnemonic: "source inquiry believe robot biology zoo artwork diesel soccer lounge brush aisle slush crumble hint renew fun park prize shift eternal kidney unaware punch"
+
+- name: Borderless
+  type: local
+  address: cudos1cvlv3dlzl75v4urrrprg8xh0lhpkkwk8f6fdhk
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AqMRKKuGwrQyRKPrWI9uWqBuuPepJXRqsqfT3yeaxRU5"}'
+  mnemonic: "cruel shove hard mad found parrot define dinosaur poverty purpose bicycle leave lounge twist blind dust quote slab inch reason hair infant shove trap"
+
+- name: DoublePeak
+  type: local
+  address: cudos140msxcfl8gqvksrzv4w3a864xtpwx9a5kqqdas
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"An+5aFyKkmGOKs5Avc2v5zbhMdMkZ/K/JjjfY8tflnvI"}'
+  mnemonic: "vanish isolate enlist ready save echo cool deputy common slot suit spot time month record hen genius nasty expand trash crash word burger ritual"
+
+- name: James_Bowater
+  type: local
+  address: cudos1cr3ksmtx6uval5vy5pyt7rtz9hyj6tf2n36f8n
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AmCmO7+S0yTsBnasMvR2yKgM/p797ozCNG0eCmiJhTW6"}'
+  mnemonic: "jacket library crazy must infant clump guilt harbor craft gas kidney ship best globe brother home exotic tiger curtain equip broken dish pluck double"
+  
+- name: NineT
+  type: local
+  address: cudos178ct28l9cggv7ae3zylrpz0xk7tqaatmrt884g
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A4nQGFoUw+npO0yiHAh0MEnU+MHk4v4IN/qkR0c9bDIj"}'
+  mnemonic: "reject suggest grunt road stamp hard define like tail wood mango theme tissue basket letter stumble clinic crucial gather denial same write rally flee"  
+  
+- name: CrypticX
+  type: local
+  address: cudos1t0pkejgrq80q75meu5cfqtd4w9twenhqpkn67n
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A5NLOB34UOjE25b7H7onTnRV7wlLn0h6wWD9sBP0B+yY"}'
+  mnemonic: "cruise prepare give treat faculty across convince knife dumb nurse fantasy derive badge deliver misery jungle auto trip orange scan reunion squeeze unfair final"  
+  
+ - name: MyCointainer
+  type: local
+  address: cudos15yyqz84aa7x6m9k5vuyng6k5yupdvhpa9xn6s9
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AstckHrqi7VbCTVYk/ugYhnPdXZukSIaYWhA29jBE0X8"}'
+  mnemonic: "popular party legend room typical goddess blood solar poverty list bullet tag arctic peanut ordinary voice final defy horror crack vague tail provide turtle" 
+
+- name: Green_Planet
+  type: local
+  address: cudos1hfgx7aemstujyv2eq4x9srw2fy4vl2pkje3n86
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"Akcc0STJbkXRDpNPKKCESdxoe4T0aZsTj3/geGLS37rO"}'
+  mnemonic: "local syrup report nerve ankle time matrix grape save country rocket siege hidden hand earn entire merry maple permit bundle gossip sense identify sword"  

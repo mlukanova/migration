@@ -1,0 +1,29 @@
+{
+    "name": "migration",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "npx babel-node index.js",
+        "get-gentx":"git pull https://github.com/CudoVentures/cudos-gentx.git gentx",
+        "generate-test":"NODE_ENV=test npx babel-node index.js",
+        "clean": "rm -rf gentx & rm -rf output",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.16.7",
+        "@babel/node": "^7.16.8",
+        "babel-preset-es2015": "^6.5.0",
+        "babel-preset-react": "^6.5.0"
+    },
+    "dependencies": {
+        "@apollo/client": "^3.5.7",
+        "axios": "^0.24.0",
+        "graphql": "^16.2.0",
+        "react": "^17.0.2",
+        "util": "^0.12.4"
+    }
+}
